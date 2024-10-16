@@ -1,4 +1,5 @@
-Hi, my name is Danilo Afonso, I'm currently learning HTML, CSS, JS
+Hi, my name is Danilo Afonso.
+I'm currently learning HTML, CSS and JS
 
 <h3>Contact</h3>
 
